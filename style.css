@@ -4,6 +4,15 @@
   box-sizing: border-box;
 }
 
-p {
+html {
+  background: #7A7D7D;
   font-family: 'Dosis', sans-serif;
+  color: #E3B505;
+  font-size: 14px;
+}
+
+header {
+  font-family: 'Gravitas-One', serif;
+  color: #95190C;
+  text-transform: uppercase;
 }
