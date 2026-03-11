@@ -14,9 +14,10 @@ html {
 
 body {
   position: relative;
+  background: #EFD9CE;
   top: 100px;
   bottom: 100px;
-  width: 500px;
+  width: 750px;
   margin: 10px;
   line-height: 1.5;
 }
