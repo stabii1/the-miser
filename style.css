@@ -11,6 +11,13 @@ html {
   font-size: 14px;
 }
 
+body {
+  position: relative;
+  top: 200px;
+  width: 500px;
+  margin: 10px;
+}
+
 header {
   font-family: 'Gravitas One', serif;
   color: #8F3985;
