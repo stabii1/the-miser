@@ -5,14 +5,18 @@
 }
 
 html {
-  background: #7A7D7D;
+  background: #EFD9CE;
   font-family: 'Dosis', sans-serif;
-  color: #E3B505;
+  color: #A675A1;
   font-size: 14px;
 }
 
 header {
   font-family: 'Gravitas One', serif;
-  color: #95190C;
+  color: #8F3985;
   text-transform: uppercase;
+}
+
+.quote {
+  color: #25283D;
 }
