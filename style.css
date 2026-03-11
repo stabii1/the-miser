@@ -32,5 +32,6 @@ p {
 
 .quote {
   font-style: italic;
+  font-weight: 600px;
   color: #25283D;
 }
