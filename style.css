@@ -6,6 +6,7 @@
 
 html {
   background: #EFD9CE;
+  background-image: url("./assets/coin.png");
   font-family: 'Dosis', sans-serif;
   color: #A675A1;
   font-size: 20px;
