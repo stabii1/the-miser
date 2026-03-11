@@ -13,10 +13,12 @@ html {
 
 body {
   position: relative;
-  top: 200px;
+  top: 100px;
+  bottom: 100px;
   width: 500px;
   margin: 10px;
-  line-height: 2;
+  margin-bottom: 20px;
+  line-height: 1.5;
 }
 
 header {
