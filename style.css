@@ -17,7 +17,6 @@ body {
   bottom: 100px;
   width: 500px;
   margin: 10px;
-  margin-bottom: 20px;
   line-height: 1.5;
 }
 
@@ -25,6 +24,10 @@ header {
   font-family: 'Gravitas One', serif;
   color: #8F3985;
   text-transform: uppercase;
+}
+
+p {
+  margin-bottom: 20px;
 }
 
 .quote {
