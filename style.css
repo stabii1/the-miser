@@ -25,5 +25,6 @@ header {
 }
 
 .quote {
+  font-style: italic;
   color: #25283D;
 }
